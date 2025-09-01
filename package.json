@@ -1,7 +1,7 @@
 {
-  "name": "teahertzstudio",
+  "name": "narcolepsygames",
   "version": "1.0.0",
-  "description": "Crafting Emotionally Competitive Mixes.",
+  "description": "Seaside Jamboree - Coming Soon",
   "main": "index.html",
   "scripts": {
     "start": "eleventy --serve",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeanM05/TeaHertzStudio"
+    "url": "git+https://github.com/DeanM05/SeasideJamboreeSite"
   },
   "keywords": [],
   "author": "DeanM05",

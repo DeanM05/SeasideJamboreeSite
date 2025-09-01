@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "TeaHertz Studio",
-  siteSubName: "Audio Mixing & Mastering",
+  siteName: "Narcolepsy Games",
+  siteSubName: "Game studio based in Limerick, Ireland",
   siteDescription:
-    "Crafting Emotionally Competitive Mixes",
-  authorName: "Dean AM",
+    "Seaside Jamboree - Coming Soon",
+  authorName: "Narcolepsy Games",
 };
