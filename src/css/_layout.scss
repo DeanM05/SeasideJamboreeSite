@@ -6,20 +6,14 @@ body {
   min-height: 100vh;
   color: $tdbc-color-body;
   font-family: $tdbc-font-family;
-  background-image: url("../images/TeaHertzPosterBack3.webp");
-  background-size: 35%;
+  background-color: #86cccc;
 }
 
 main,
 main.tdbc-container {
-  padding-top: 0vh;
-  padding-bottom: 5vh;
-  padding-left: 50px;
-  padding-right: 50px;
-  width: 1400px;
-  margin: auto;
-  background-image: url("../images/TeaHertzPosterBack.webp");
-  background-size: 100%;
+  max-width: 1400px;
+  margin: 0 auto 0 auto;
+  background-color: #fff;
 }
 
 footer {
@@ -40,7 +34,6 @@ article {
   flex-direction: column;
   margin-right: auto;
   margin-left: auto;
-  padding: 0.5rem 1.5rem;
 }
 
 .tdbc-column-container {
@@ -69,16 +62,10 @@ ul.tdbc-column-container {
 .tdbc-hero {
   display: grid;
   min-height: 20vh;
-  place-content: center;
-  padding-top: 2vh;
-  padding-bottom: 2vh;
-  padding-left: 50px;
-  padding-right: 50px;
   text-align: center;
-    width: 1400px;
-  margin: auto;
-  background-image: url("../images/TeaHertzPosterBack.webp");
-  background-size: cover;
+  max-width: 1400px;
+  margin: 40px auto 0 auto;
+  background-color: #fff;
 }
 
 .tdbc-row {
